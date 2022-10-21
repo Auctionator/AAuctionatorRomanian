@@ -5,6 +5,6 @@
 ## Interface-Vanilla: 11403
 ## Title: Auctionator Romanian Translation Module
 ## Version: @project-version@
-## Author: RaduUrsache
+## Author: Radu Ursache
 
 Translations.lua
